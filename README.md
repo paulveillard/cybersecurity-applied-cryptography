@@ -154,54 +154,7 @@ That seems somewhat out of scope, isn't it? But these are books only fully avail
 * [CrypTool book](https://www.cryptool.org/en/ctp-documentation/ctbook) - Predominantly mathematically oriented information on learning, using and experimenting cryptographic procedures.
 * [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/) - By Alfred J. Menezes, Paul C. van Oorschot and Scott A. Vanstone. Good classical introduction into cryptography and ciphers.
 * [The joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/) - By Mike Rosulek. A lot of basic stuff covered really well. No ECC.
-* [A Computational Introduction to Number Theory and Algebra](http://www.shoup.net/ntb/) - By Victor Shoup, excellent starters book on math universally used in cryptography. 
-
-<hr>
-
-### Lectures and educational courses
-
-* [Understanding cryptography: A textbook for Students and Practitioners](http://www.crypto-textbook.com/) - Textbook, great lectures and problems to solve.
-* [Crypto101](https://www.crypto101.io/) - Crypto 101 is an introductory course on cryptography, freely available for programmers of all ages and skill levels.
-* [A Course in Cryptography](https://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf) - Lecture notes by Rafael Pass, Abhi Shelat.
-* [Lecture Notes on Cryptography](https://cseweb.ucsd.edu/~mihir/papers/gb.pdf) - Famous set of lectures on cryptography by Shafi Goldwasser (MIT), M. Bellare (University of California).
-* [Introduction to Cryptography by Christof Paar](https://www.youtube.com/watch?v=2aHkqB2-46k) - Video course by Christof Paar (University of Bochum in Germany). In english.
-* [Cryptography I](https://www.coursera.org/learn/crypto) - Stanford University course on Coursera, taught by prof. Dan Boneh. [Cryptography II](https://www.coursera.org/learn/crypto2) is still in development.
-<hr>
-
-### Online crypto challenges 
-
-Not exactly papers, but crypto challenges are awesome educational material.
-
-* [CryptoHack](https://cryptohack.org/)
-
-* [Cryptopals crypto challenges](https://cryptopals.com/).
-
-* [id0-rsa crypto challenges](https://id0-rsa.pub/).
-
-* [MTC3](https://www.mysterytwisterc3.org/en/) - xipher contest with more than 200 challenges of different levels, a moderated forum, and a hall-of-fame.
-
-## License
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Books
+* [A Computational Introduction to Number Theory and Algebra](http://www.shoup.net/ntb/) - By Victor Shoup, excellent starters book on math universally used in cryptography.
 
 - [Introduction to Modern Cryptography (2nd edition)](http://www.cs.umd.edu/~jkatz/imc.html) by Jonathan Katz and Yehuda Lindell
 - [A Course in Cryptography](http://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf) by Rafael Pass and Abhi Shelat
@@ -275,6 +228,30 @@ Not exactly papers, but crypto challenges are awesome educational material.
 - https://tlu.tarilabs.com/cryptography/cryptography.html
 - [What is the lowest level of mathematics required in order to understand how encryption algorithms work?](https://crypto.stackexchange.com/questions/10467/what-is-the-lowest-level-of-mathematics-required-in-order-to-understand-how-encr)
 
+
+<hr>
+
+### Lectures and educational courses
+
+* [Understanding cryptography: A textbook for Students and Practitioners](http://www.crypto-textbook.com/) - Textbook, great lectures and problems to solve.
+* [Crypto101](https://www.crypto101.io/) - Crypto 101 is an introductory course on cryptography, freely available for programmers of all ages and skill levels.
+* [A Course in Cryptography](https://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf) - Lecture notes by Rafael Pass, Abhi Shelat.
+* [Lecture Notes on Cryptography](https://cseweb.ucsd.edu/~mihir/papers/gb.pdf) - Famous set of lectures on cryptography by Shafi Goldwasser (MIT), M. Bellare (University of California).
+* [Introduction to Cryptography by Christof Paar](https://www.youtube.com/watch?v=2aHkqB2-46k) - Video course by Christof Paar (University of Bochum in Germany). In english.
+* [Cryptography I](https://www.coursera.org/learn/crypto) - Stanford University course on Coursera, taught by prof. Dan Boneh. [Cryptography II](https://www.coursera.org/learn/crypto2) is still in development.
+<hr>
+
+### Online crypto challenges 
+
+Not exactly papers, but crypto challenges are awesome educational material.
+
+* [CryptoHack](https://cryptohack.org/)
+
+* [Cryptopals crypto challenges](https://cryptopals.com/).
+
+* [id0-rsa crypto challenges](https://id0-rsa.pub/).
+
+* [MTC3](https://www.mysterytwisterc3.org/en/) - xipher contest with more than 200 challenges of different levels, a moderated forum, and a hall-of-fame.
 
 
 
