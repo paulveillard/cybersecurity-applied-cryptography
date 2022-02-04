@@ -13,8 +13,11 @@
 - [Books](#books)
 - [Courses](#courses)
 - [Coding](#coding)
+- [Lectures and Educational Courses](#lectures-and-educational-courses)
+- [License](#license)
 
 
+## Introduction
 
 * [Introducing people to data security and cryptography](#introducing-people-to-data-security-and-cryptography).
   * [Simple: cryptography for non-engineers](#simple-cryptography-for-non-engineers).
@@ -212,7 +215,7 @@ That seems somewhat out of scope, isn't it? But these are books only fully avail
 - [Foundations of Privacy](https://course.ece.cmu.edu/~ece734/index.html) from CMU
 - [Information-Theoretic Lower Bounds](https://theinformaticists.com/2019/09/16/online-lecture-information-theoretic-lower-bounds/)
 
-## For coding
+## Coding
 
 - [CryptoGotchas](https://github.com/SalusaSecondus/CryptoGotchas)
 - [cryptocoding](https://github.com/veorq/cryptocoding)
@@ -239,7 +242,7 @@ That seems somewhat out of scope, isn't it? But these are books only fully avail
 
 <hr>
 
-### Lectures and educational courses
+## Lectures and educational courses
 
 * [Understanding cryptography: A textbook for Students and Practitioners](http://www.crypto-textbook.com/) - Textbook, great lectures and problems to solve.
 * [Crypto101](https://www.crypto101.io/) - Crypto 101 is an introductory course on cryptography, freely available for programmers of all ages and skill levels.
