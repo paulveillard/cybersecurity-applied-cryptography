@@ -6,7 +6,15 @@
 
 
 
-## Contents
+## Table of Contents
+- [Introduction](#introduction)
+- [The List](#the-list)
+- [Specific Topics](#specific-topics)
+- [Books](#books)
+- [Courses](#courses)
+- [Coding](#coding)
+
+
 
 * [Introducing people to data security and cryptography](#introducing-people-to-data-security-and-cryptography).
   * [Simple: cryptography for non-engineers](#simple-cryptography-for-non-engineers).
@@ -46,7 +54,7 @@
 
 <hr>
 
-### Specific topics
+## Specific topics
 
 #### Hashing
 
@@ -145,7 +153,7 @@
 
 <hr>
 
-### Books
+## Books
 
 That seems somewhat out of scope, isn't it? But these are books only fully available online for free. Read them as a sequence of papers if you will.
 
