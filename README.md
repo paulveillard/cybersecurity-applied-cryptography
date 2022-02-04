@@ -1,1 +1,1 @@
-# cybersecurity-applied-cryptography
+# Applied Cryptography
